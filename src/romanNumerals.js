@@ -34,7 +34,7 @@ var startApplication = function () {
   };
 
   return {
-    translate: translateToRoman
+    init: translateToRoman
   }
 };
 
